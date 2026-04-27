@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Patreon](https://img.shields.io/badge/dynamic/json?color=green&label=Patreon&style=for-the-badge&query=patron_count&url=https%3A%2F%2Fapp.lizardbyte.dev%2Fdashboard%2Fpatreon%2FLizardByte.json&logo=patreon)](https://www.patreon.com/LizardByte)
+[![PayPal](https://img.shields.io/badge/donate-green.svg?style=for-the-badge&label=PayPal&message=Donate&color=green&logo=paypal)](https://www.paypal.com/paypalme/ReenigneArcher)
